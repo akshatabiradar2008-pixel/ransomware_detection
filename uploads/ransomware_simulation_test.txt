@@ -1,0 +1,32 @@
+RANSOMWARE SIMULATION TEST FILE
+================================
+
+This file is harmless and is intended only for testing a ransomware
+detection application.
+
+Simulated indicators:
+- ransom
+- ransomware
+- encrypt
+- encrypted
+- decrypt
+- bitcoin
+- payment
+- powershell
+- cmd.exe
+- vssadmin
+- shadowcopy
+- delete
+- lockbit
+- wannacry
+
+IMPORTANT:
+This is NOT ransomware.
+It does not encrypt files.
+It does not delete files.
+It does not execute commands.
+It does not contact a network.
+It does not modify the computer.
+
+Use this file only to test the upload and static-analysis features
+of the ransomware detection project.
