@@ -1,3 +1,0 @@
-This is a harmless test file for the ransomware detection project.
-It contains ordinary text and no executable code.
-Use this file to test the upload interface.

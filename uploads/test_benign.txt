@@ -1,2 +1,0 @@
-This is a harmless test file for the ransomware detection project.
-It contains no executable code and is intended only for testing file upload and feature extraction.
